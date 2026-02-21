@@ -1,4 +1,25 @@
-# HR Analytics Dashboard | Power BI Project
+# HR Analytics Dashboard | Power BI
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-blue)
+![Project Type](https://img.shields.io/badge/Type-Business%20Intelligence-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+> An interactive HR Analytics Dashboard built in Power BI to analyze workforce demographics, salary trends, department performance, and employee benefits for data-driven HR decision-making.
+
+## Project Snapshot
+
+- Total Employees: **44**
+- Average Salary: **$8.5K**
+- Average Age: **33.09 Years**
+- Attendance Rate: **40%**
+- Departments Analyzed: **Multiple Business Units**
+
+## Business Problem
+
+Organizations require a centralized HR reporting system to monitor workforce distribution, salary allocation, attendance trends, and employee benefits.  
+This dashboard provides actionable insights to support strategic HR planning and performance monitoring.
+
 ## Project Overview
 
 The HR Analytics Dashboard is an interactive business intelligence project developed using Power BI.
